@@ -56,5 +56,5 @@ A web application that extracts structured data from PDF resumes. Built with Pyt
 
 - Backend: Python Flask
 - Frontend: React with Material-UI
-- Database: MongoDB
+- Database: SQLite
 - PDF Processing: pdfminer.six
