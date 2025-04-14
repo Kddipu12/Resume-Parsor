@@ -40,10 +40,7 @@ A web application that extracts structured data from PDF resumes. Built with Pyt
    npm start
    ```
 
-4. Start MongoDB:
-   ```bash
-   mongod
-   ```
+
 
 5. Access the application at http://localhost:3000
 
