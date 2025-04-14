@@ -19,7 +19,7 @@ A web application that extracts structured data from PDF resumes. Built with Pyt
 
 - Python 3.8+
 - Node.js 14+
-- MongoDB
+
 
 ## Setup
 
